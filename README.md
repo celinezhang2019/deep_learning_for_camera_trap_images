@@ -1,3 +1,6 @@
+目前最牛、数据量最庞大的野生动物分类器
+
+
 # deep_learning_for_camera_trap_images
 This repository contains the code used for the following paper:
 
